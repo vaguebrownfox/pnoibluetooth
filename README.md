@@ -11,6 +11,8 @@ Pnoi Phone Bluetooth server
 
 Instuctions
 
-Create a python virtualenv
-Make sure you use requirements.txt to install the dependencies
-Run the python script
+- Create a python virtualenv
+
+- Make sure you use requirements.txt to install the dependencies
+
+- Run the python script
